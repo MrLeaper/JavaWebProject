@@ -7,5 +7,8 @@ package dao;
  */
 public class tets {
     private int x;
+private int y;
+
+
 }
 
