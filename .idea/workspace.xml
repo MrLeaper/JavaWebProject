@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f781c4e9-6ceb-4db0-8d94-3d4d8e4c60da" name="Default Changelist" comment="" />
+    <list default="true" id="f781c4e9-6ceb-4db0-8d94-3d4d8e4c60da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +290,7 @@
       <workItem from="1575424593263" duration="1004000" />
       <workItem from="1576113171478" duration="30000" />
       <workItem from="1576113217533" duration="392000" />
-      <workItem from="1584021324407" duration="949000" />
+      <workItem from="1584021324407" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;test&quot;">
       <created>1584021692491</created>
@@ -311,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584022185700</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2222">
+      <created>1584022622803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584022622803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +340,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;test&quot;" />
     <MESSAGE value="又一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="又一次提交" />
+    <MESSAGE value="2222" />
+    <option name="LAST_COMMIT_MESSAGE" value="2222" />
   </component>
 </project>
